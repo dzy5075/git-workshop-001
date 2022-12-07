@@ -1,0 +1,17 @@
+// Git workflow
+
+Rule 1: Never work on the main / master branch
+
+Name your branches like this;
+your-name/feature-you-working-on
+    cleo/signup-form
+
+do not name branches simply by your name
+
+3.Set the upstream
+
+Point this branch to a remote branch on GitHub so that GH knows to track changes going forward
+
+(GH doesn't know about this branch yet.)
+
+$ git push 
