@@ -1,0 +1,9 @@
+General workflow:
+
+git status
+git add [file]
+git commit -m "commit message"
+git push
+
+Commits should be SMALL
+"Commit early, commit often"
